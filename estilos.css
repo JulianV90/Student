@@ -1,0 +1,117 @@
+
+.main{
+    background-color: yellow;
+    padding: 10px;
+    align-content: space-between;
+    
+
+}
+
+.m1{
+    background-color: darkorange;
+    margin: 5px;
+    width: 350px;
+    height: 630px;
+    display: inline-block;
+ 
+}
+
+.m2{
+    background-color: rgb(86, 255, 43);
+    margin: 5px;
+    width: 560px;
+    height: 630px;
+    display: inline-block;
+    flex-direction: row;
+    position:relative;
+    top: -30px;
+    
+    
+    
+}
+
+.m3{
+    background-color: rgb(3, 49, 255);
+    margin: 5px;
+    width: 350px;
+    height: 630px;
+    display: inline-block;
+    position:relative;
+    top: 35px;
+    
+}
+
+.sub1{
+    background-color:darkgreen;
+    width: 150px;
+    height: 270px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid;
+    display: inline-block;
+    justify-content: center;
+    
+    
+    
+    
+}
+
+.sub2{
+    background-color:darkgreen;
+    width: 160px;
+    height: 160px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid;
+    justify-content: center;
+    display: inline-flex;
+}
+
+
+.sub3B{
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+    align-content: center;
+    position:relative;
+    left: 80px;
+
+}
+
+.sub3A{
+    background-color: rgb(255, 147, 7);
+    flex-direction: row;
+    width: 100px;
+    height: 200px;
+    margin: 5px;
+    align-content: center;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    
+}
+
+.sub3C{
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+    align-content: center;
+    position: relative;
+    left: 80px;
+}
+
+.sub3D{
+    background-color: rgb(255, 147, 7);
+    flex-direction: row;
+    width: 100px;
+    height: 200px;
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    
+}
